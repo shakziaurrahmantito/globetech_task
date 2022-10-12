@@ -3,9 +3,10 @@
 ## Task Instruction
 
 How to run project
+
     1. ENV(change database name)
-    1. Migration file(php artisan migrate --seed)
-    2. Run(php artisan serve)
+    2. Migration file(php artisan migrate --seed)
+    3. Run(php artisan serve)
 
 Make authentication (Login/Logout/registration):
 
