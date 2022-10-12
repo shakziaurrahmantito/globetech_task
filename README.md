@@ -1,6 +1,6 @@
 
 
-## About Task
+## Task Instruction
 
 
 Make authentication (Login/Logout/registration):
